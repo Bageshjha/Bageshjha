@@ -92,17 +92,6 @@ I enjoy building production-ready AI applications that combine machine learning,
 
 ## AutoApply.ai
 
-An AI-powered job application platform that automates resume tailoring, application workflows, and recruitment tasks using LLMs and intelligent agents.
-
-**Tech**
-
-- FastAPI
-- PostgreSQL
-- LangChain
-- LLMs
-- Docker
-
----
 
 ## Customer Support Intelligence
 
@@ -196,7 +185,7 @@ I enjoy contributing to projects involving:
 # Contact
 
 - GitHub: https://github.com/Bageshjha
-- LinkedIn: *[(Add your LinkedIn URL)](https://www.linkedin.com/in/bagesh-jha/)*
+- LinkedIn: *[(https://www.linkedin.com/in/bagesh-jha/)]*
 - Email: *bageshjha7@gmail.com*
 
 ---
