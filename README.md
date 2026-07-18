@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Bagesh Jha
@@ -206,4 +206,3 @@ I enjoy contributing to projects involving:
 *"Building practical AI systems that deliver measurable impact."*
 
 </div>
-```
