@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D93E3E&height=150&section=header&text=Bagesh%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=150&section=header&text=Bagesh%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D93E3E&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+LLM+%26+Agentic+AI+Systems;RAG+%2B+Computer+Vision+%2B+MLOps;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+LLM+%26+Agentic+AI+Systems;RAG+%2B+Computer+Vision+%2B+MLOps;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bageshjha&color=D93E3E&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Bageshjha&color=8E44AD&style=flat)
 
 Building production-grade AI systems, LLM applications, computer vision solutions, and intelligent automation.
 
@@ -51,13 +51,13 @@ I focus on building production-ready AI applications that combine machine learni
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-D93E3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-D93E3E?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-D93E3E?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-D93E3E?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-D93E3E?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-D93E3E?style=for-the-badge&logo=huggingface&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-D93E3E?style=for-the-badge&logo=ollama&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Backend
 <p>
@@ -75,11 +75,11 @@ I focus on building production-ready AI applications that combine machine learni
 </p>
 
 ### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-D93E3E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-D93E3E?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-D93E3E?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-D93E3E?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-D93E3E?style=for-the-badge&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -143,27 +143,19 @@ An implementation of a bigram language model built with PyTorch, trained to gene
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Bageshjha&show_icons=true&hide_border=true&theme=transparent&title_color=D93E3E&icon_color=D93E3E&text_color=ffffff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bageshjha&layout=compact&hide_border=true&theme=transparent&title_color=D93E3E&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=Bageshjha&show_icons=true&hide_border=true&theme=radical&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bageshjha&layout=compact&hide_border=true&theme=radical&bg_color=00000000)
 
-![](https://streak-stats.demolab.com?user=Bageshjha&hide_border=true&theme=transparent&ring=D93E3E&fire=D93E3E&currStreakLabel=D93E3E)
+![](https://streak-stats.demolab.com?user=Bageshjha&hide_border=true&theme=radical&background=00000000)
 
 </div>
-
-### Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bageshjha&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Experience" />
-</div>
-
-> Note: this widget is served from a free third-party host (vercel.app) and can occasionally load slowly or fail to render on first visit. Refreshing the page usually resolves it. If it stays broken, the theme name can be swapped to flat, dark, or algolia as alternatives.
 
 ---
 
 # Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bageshjha&theme=github-compact&hide_border=true&bg_color=transparent&color=D93E3E&line=D93E3E&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bageshjha&theme=radical&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
@@ -199,9 +191,9 @@ I am interested in contributing to projects involving:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D93E3E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagesh-jha/)
-[![Gmail](https://img.shields.io/badge/Gmail-D93E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bageshjha7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-D93E3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bageshjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagesh-jha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bageshjha7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bageshjha)
 
 </div>
 
@@ -211,6 +203,6 @@ I am interested in contributing to projects involving:
 
 "Building practical AI systems that deliver measurable impact."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D93E3E&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=100&section=footer" />
 
 </div>
