@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=150&section=header&text=Bagesh%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D93E3E&height=150&section=header&text=Bagesh%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+LLM+%26+Agentic+AI+Systems;RAG+%2B+Computer+Vision+%2B+MLOps;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D93E3E&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+LLM+%26+Agentic+AI+Systems;RAG+%2B+Computer+Vision+%2B+MLOps;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bageshjha&color=2EA043&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Bageshjha&color=D93E3E&style=flat)
 
 Building production-grade AI systems, LLM applications, computer vision solutions, and intelligent automation.
 
@@ -12,7 +12,7 @@ Building production-grade AI systems, LLM applications, computer vision solution
 
 [About](#about) •
 [Tech Stack](#tech-stack) •
-[Projects](#featured-projects) •
+[Projects](#projects) •
 [GitHub Stats](#github-statistics) •
 [Current Focus](#current-focus) •
 [Contact](#contact)
@@ -25,17 +25,17 @@ Building production-grade AI systems, LLM applications, computer vision solution
 
 I am an AI/ML Engineer focused on designing and deploying intelligent systems that solve real-world operational problems.
 
-My interests include:
+My areas of interest include:
 
-- 🤖 Large Language Models
-- 🕹️ Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- ⚙️ Backend Engineering
-- 🚀 MLOps
+- Large Language Models
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Deep Learning
+- Backend Engineering
+- MLOps
 
-I enjoy building production-ready AI applications that combine machine learning, scalable backend systems, and modern software engineering practices.
+I focus on building production-ready AI applications that combine machine learning, scalable backend systems, and sound software engineering practices.
 
 ---
 
@@ -51,13 +51,13 @@ I enjoy building production-ready AI applications that combine machine learning,
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-D93E3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-D93E3E?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-D93E3E?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-D93E3E?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-D93E3E?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-D93E3E?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-D93E3E?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Backend
 <p>
@@ -75,55 +75,67 @@ I enjoy building production-ready AI applications that combine machine learning,
 </p>
 
 ### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-D93E3E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-D93E3E?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-D93E3E?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-D93E3E?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-D93E3E?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-# Featured Projects
+# Projects
 
-### 🎯 AutoApply.ai
-An AI-powered job application platform that automates resume tailoring, application workflows, and recruitment tasks using LLMs and intelligent agents.
+### Multiple Disease Predictor
+A health assistant web application powered by machine learning models for predicting the likelihood of diabetes, heart disease, and Parkinson's disease.
 
-**Tech:** ![FastAPI](https://img.shields.io/badge/-FastAPI-05998b?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Tech:** Python
 
----
-
-### 🎧 Customer Support Intelligence
-An NLP-driven analytics platform for support operations.
-
-- Ticket clustering
-- Root cause detection
-- Escalation prediction
-- Solution recommendation
-- Trend analysis
+[View Repository](https://github.com/Bageshjha/multiple-disease-predictor)
 
 ---
 
-### 👁️ Computer Vision Pipeline
-Production-focused OCR and computer vision workflows involving:
+### Churn Analysis
+Churn analysis using SQL, Power BI, and Python, including a churn prediction model built with a Random Forest Classifier, achieving 86% accuracy.
 
-- PaddleOCR
-- OpenCV
-- YOLO
-- SAM
-- Image preprocessing
-- Data extraction pipelines
+**Tech:** Python, SQL, Power BI
+
+[View Repository](https://github.com/Bageshjha/Churn-Analysis)
 
 ---
 
-### ⚙️ Intelligent Automation
-Automation systems for:
+### Django CRM Application
+A Django-based CRM web application supporting multiple users, with functionality to create, edit, and delete records.
 
-- Data processing
-- Workflow orchestration
-- AI-assisted reporting
-- Backend integrations
+**Tech:** Python, Django, MySQL
 
-> 💡 **Tip:** Once your project repos are public, you can swap the sections above for auto-updating pinned repo cards — see the note at the bottom of this file.
+[View Repository](https://github.com/Bageshjha/Django-CRM-application)
+
+---
+
+### Luna Chatbot
+A chatbot built with Streamlit, powered by the Google Gemini Pro model with fine-tuning.
+
+**Tech:** Python, Streamlit, Gemini Pro
+
+[View Repository](https://github.com/Bageshjha/Luna-Chatbot)
+
+---
+
+### Age and Gender Prediction Model
+A deep learning model that predicts age and gender from facial images using the UTKFace dataset, built with Convolutional Neural Networks in Keras.
+
+**Tech:** Python, TensorFlow, Keras
+
+[View Repository](https://github.com/Bageshjha/Age-and-Gender-Prediction-Model-using-TensorFlow)
+
+---
+
+### Bigram Language Model
+An implementation of a bigram language model built with PyTorch, trained to generate text from a literary corpus.
+
+**Tech:** Python, PyTorch
+
+[View Repository](https://github.com/Bageshjha/Bigram-Language-Model-using-PyTorch)
 
 ---
 
@@ -131,25 +143,27 @@ Automation systems for:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Bageshjha&show_icons=true&hide_border=true&theme=transparent&title_color=2EA043&icon_color=2EA043&text_color=ffffff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bageshjha&layout=compact&hide_border=true&theme=transparent&title_color=2EA043&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=Bageshjha&show_icons=true&hide_border=true&theme=transparent&title_color=D93E3E&icon_color=D93E3E&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bageshjha&layout=compact&hide_border=true&theme=transparent&title_color=D93E3E&text_color=ffffff)
 
-![](https://streak-stats.demolab.com?user=Bageshjha&hide_border=true&theme=transparent&ring=2EA043&fire=2EA043&currStreakLabel=2EA043)
+![](https://streak-stats.demolab.com?user=Bageshjha&hide_border=true&theme=transparent&ring=D93E3E&fire=D93E3E&currStreakLabel=D93E3E)
 
 </div>
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bageshjha&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bageshjha&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Experience" />
 </div>
+
+> Note: this widget is served from a free third-party host (vercel.app) and can occasionally load slowly or fail to render on first visit. Refreshing the page usually resolves it. If it stays broken, the theme name can be swapped to flat, dark, or algolia as alternatives.
 
 ---
 
 # Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bageshjha&theme=github-compact&hide_border=true&bg_color=transparent&color=2EA043&line=2EA043&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bageshjha&theme=github-compact&hide_border=true&bg_color=transparent&color=D93E3E&line=D93E3E&point=ffffff" />
 </div>
 
 ---
@@ -158,19 +172,19 @@ Automation systems for:
 
 Currently working on:
 
-- 🕹️ Agentic AI systems
-- 🏢 LLM-powered enterprise applications
-- 📚 RAG architectures
-- 🤖 AI automation
-- 🏭 Production ML pipelines
-- ⚙️ Backend system design
-- ☁️ Scalable AI infrastructure
+- Agentic AI systems
+- LLM-powered enterprise applications
+- RAG architectures
+- AI automation
+- Production ML pipelines
+- Backend system design
+- Scalable AI infrastructure
 
 ---
 
 # Open Source
 
-I enjoy contributing to projects involving:
+I am interested in contributing to projects involving:
 
 - Artificial Intelligence
 - Machine Learning
@@ -185,9 +199,9 @@ I enjoy contributing to projects involving:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagesh-jha/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bageshjha7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bageshjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D93E3E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagesh-jha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D93E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bageshjha7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-D93E3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bageshjha)
 
 </div>
 
@@ -195,8 +209,8 @@ I enjoy contributing to projects involving:
 
 <div align="center">
 
-*"Building practical AI systems that deliver measurable impact."*
+"Building practical AI systems that deliver measurable impact."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D93E3E&height=100&section=footer" />
 
 </div>
