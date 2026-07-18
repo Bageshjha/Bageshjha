@@ -185,7 +185,7 @@ I enjoy contributing to projects involving:
 # Contact
 
 - GitHub: https://github.com/Bageshjha
-- LinkedIn: *[(https://www.linkedin.com/in/bagesh-jha/)]*
+- LinkedIn: *https://www.linkedin.com/in/bagesh-jha/*
 - Email: *bageshjha7@gmail.com*
 
 ---
